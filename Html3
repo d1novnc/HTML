@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My Gaming Site</title>
+    </head>
+    <body>
+      <a href="#introduction">Introduction</a>
+      <a href="#games_to_play">Games To Play</a>
+      <h1>DeSean's Game Website</h1>
+    <div id="Introduction to my site"
+        <p>On this site, you will get 
+      a number of links to play games. I'm currently working on how to deploy the game to my website so if it is blocked, I cant fix that right now.</p>
+      
+      <img src="https://cdn5.vectorstock.com/i/1000x1000/27/14/retro-neon-color-game-controller-vector-33752714.jpg" alt="The Game website" width="320" height="240">
+      <!-- Credit to VectorStock -->
+  </div>
+      <h3>Games to Play</h3>
+  <div id="games_to_play">
+<a href="battledudes.io" target="_blank"><img src="https://playplayfun.com/wp-content/uploads/2022/08/BattleDudes.io-1280x720-1.jpeg" alt="BattleDudes.io" width="240" height="240" /> </a>
+<a href="taming.io" target="_blank"><img src="https://www.giantbomb.com/a/uploads/scale_small/35/356968/3259377-banner-275x157.jpg" alt="Taming.io" width="240" height="240" /> </a>      
