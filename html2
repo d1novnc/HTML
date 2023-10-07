@@ -13,7 +13,7 @@
   <body>
       <div id="introduction">
     <p>Hello! My name is <strong>DeSean</strong>! I'm currently learning how to code in HTML. This is my first project. <br /> <br /> I go to George Washington Carver.</p>
-    <img src="https://lh3.googleusercontent.com/p/AF1QipN5zQtTrpYl4ba-HG0d7Xh9sjjZInNqGT3J76pE=s680-w680-h510">My school />
+    <img src="https://lh3.googleusercontent.com/p/AF1QipN5zQtTrpYl4ba-HG0d7Xh9sjjZInNqGT3J76pE=s680-w680-h510" alt="My School">
     <!-- More about Me -->
       <h2>Facts About Me</h2>
       <div id="FAM">
