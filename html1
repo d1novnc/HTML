@@ -14,7 +14,7 @@
       <li><a href="#introduction">Introduction</a></li>
       <li><a href="#habitat">Habitat</a></li>
       <li><a href="#media">Media</a></li>
-<li><a href="#Your_code_here">Enter your code</a></li>
+<li><a href="#Your_code_here">Enter your code (Editor Mode)</a></li>
     </ul>
   </nav>
   <div id="introduction>
@@ -44,7 +44,7 @@
   </div>
   <div id="media">
 <h2>Media</h2>
-<img src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F996696a8-e2d0-11ed-9d9d-927ca944996b.jpg?crop=2225%2C2781%2C453%2C57" /> width="320" height="240"
+<img src="https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F996696a8-e2d0-11ed-9d9d-927ca944996b.jpg?crop=2225%2C2781%2C453%2C57" />
 <!-- Credit to TheTimes.co for the image -->
 </div>
 <div id="Your_code_here"
